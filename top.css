@@ -1,0 +1,106 @@
+body{
+background:linear-gradient(to right,#e29c06fa, #922f96);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+h1{
+color: black;
+
+}
+
+h2{ 
+color: black;
+}
+
+h3{
+    display: flex;
+color: black;
+justify-content: center;
+align-items: center;
+}
+
+img{
+    width: 150px;
+    height: auto;
+    border-radius: 20px;
+    margin: 10px;
+    
+}
+
+.imagem-2{
+    width: 400px;
+    height: 400px;
+    align-items: flex-start;
+    margin: 10px;
+    position: absolute;
+    left: 10px;
+
+}
+
+
+.imagem-3{
+    width: 400px;
+    height: 400px;
+    right: 10px;
+    margin: 10px;
+    align-items: flex-start;
+    position: absolute;
+}
+
+label{
+font-style:normal;
+
+}
+
+input{
+color: white;
+display: block; 
+padding: 10px;   
+border-radius: 2px;
+margin-bottom: 10px;
+width: 100%;
+box-sizing: border-box;
+
+}
+
+.botão{
+    background-color: #0178ff;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    margin-bottom:10px;
+    cursor:pointer;
+    box-sizing: border-box;
+    margin-top: 10%;
+    }
+
+p{
+    margin-top: 2%;
+}
+
+.primario{
+    background-color: #0178ff;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    margin-bottom:10px;
+    cursor:pointer;
+    box-sizing: border-box;
+    margin-top: 10%;
+
+
+
+}
+
+
+.logo{
+    width: 20px;
+    height: 20px;
+    left: auto;
+}
+
+    
